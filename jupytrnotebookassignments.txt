@@ -1,0 +1,6 @@
+http://localhost:8891/notebooks/AssignmentofFormerpresidents.ipynb
+http://localhost:8892/notebooks/cricketrankings.ipynb
+http://localhost:8892/notebooks/PythonBeautifulSoupAssignments.ipynb
+
+
+juptyr notebook files above of assignment of BeautifulSoup
